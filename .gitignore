@@ -1,0 +1,21 @@
+# Objetos e executáveis
+*.o
+*.obj
+*.a
+*.so
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+bin/
+build/
+
+# Editores / SO
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
